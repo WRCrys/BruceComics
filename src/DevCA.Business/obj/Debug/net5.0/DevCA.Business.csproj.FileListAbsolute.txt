@@ -1,0 +1,12 @@
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/bin/Debug/net5.0/DevCA.Business.deps.json
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/bin/Debug/net5.0/DevCA.Business.dll
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/bin/Debug/net5.0/ref/DevCA.Business.dll
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/bin/Debug/net5.0/DevCA.Business.pdb
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/Debug/net5.0/DevCA.Business.csprojAssemblyReference.cache
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/Debug/net5.0/DevCA.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/Debug/net5.0/DevCA.Business.AssemblyInfoInputs.cache
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/Debug/net5.0/DevCA.Business.AssemblyInfo.cs
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/Debug/net5.0/DevCA.Business.csproj.CoreCompileInputs.cache
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/Debug/net5.0/DevCA.Business.dll
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/Debug/net5.0/ref/DevCA.Business.dll
+/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/Debug/net5.0/DevCA.Business.pdb

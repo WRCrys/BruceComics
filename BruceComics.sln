@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCa.Api", "src\DevCa.Api\DevCa.Api.csproj", "{16F80A67-C096-4DA0-AE22-EB152D22D4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCA.Business", "src\DevCA.Business\DevCA.Business.csproj", "{ECD9E450-E98C-43A5-ABDA-1C84E3740FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCa.Data", "src\DevCa.Data\DevCa.Data.csproj", "{9F653727-8036-41A1-80AE-393A151198BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F80A67-C096-4DA0-AE22-EB152D22D4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F80A67-C096-4DA0-AE22-EB152D22D4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F80A67-C096-4DA0-AE22-EB152D22D4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F80A67-C096-4DA0-AE22-EB152D22D4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD9E450-E98C-43A5-ABDA-1C84E3740FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD9E450-E98C-43A5-ABDA-1C84E3740FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD9E450-E98C-43A5-ABDA-1C84E3740FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD9E450-E98C-43A5-ABDA-1C84E3740FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F653727-8036-41A1-80AE-393A151198BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F653727-8036-41A1-80AE-393A151198BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F653727-8036-41A1-80AE-393A151198BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F653727-8036-41A1-80AE-393A151198BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

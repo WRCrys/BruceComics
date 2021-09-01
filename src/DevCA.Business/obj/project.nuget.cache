@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N5TREMA2aZ/xGfd1+T0S6/THBR5i2Ax3UUSZuzAlyZx7okpF0KR01xV5JaAGGc8TNNR01+tlWQUvtpylDbndUw==",
+  "success": true,
+  "projectFilePath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/crystyanoalmeida/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

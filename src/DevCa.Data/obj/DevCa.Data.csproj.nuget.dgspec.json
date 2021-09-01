@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj",
+        "projectName": "DevCA.Business",
+        "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj",
+        "packagesPath": "/Users/crystyanoalmeida/.nuget/packages/",
+        "outputPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/crystyanoalmeida/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj",
+        "projectName": "DevCa.Data",
+        "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj",
+        "packagesPath": "/Users/crystyanoalmeida/.nuget/packages/",
+        "outputPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/crystyanoalmeida/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj": {
+                "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
