@@ -1,36 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Api/DevCa.Api.csproj": {}
+    "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Api\\DevCa.Api.csproj": {}
   },
   "projects": {
-    "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Api/DevCa.Api.csproj": {
+    "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Api\\DevCa.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Api/DevCa.Api.csproj",
+        "projectUniqueName": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Api\\DevCa.Api.csproj",
         "projectName": "DevCa.Api",
-        "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Api/DevCa.Api.csproj",
-        "packagesPath": "/Users/crystyanoalmeida/.nuget/packages/",
-        "outputPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Api/obj/",
+        "projectPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Api\\DevCa.Api.csproj",
+        "packagesPath": "C:\\Users\\111809\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/crystyanoalmeida/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\111809\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexusdev.pmenos.com.br:8081/repository/nuget01/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj": {
-                "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj"
+              "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\DevCA.Business.csproj": {
+                "projectPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\DevCA.Business.csproj"
               },
-              "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj": {
-                "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj"
+              "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Data\\DevCa.Data.csproj": {
+                "projectPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Data\\DevCa.Data.csproj"
               }
             }
           }
@@ -102,26 +108,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj": {
+    "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\DevCA.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj",
+        "projectUniqueName": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\DevCA.Business.csproj",
         "projectName": "DevCA.Business",
-        "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj",
-        "packagesPath": "/Users/crystyanoalmeida/.nuget/packages/",
-        "outputPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/obj/",
+        "projectPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\DevCA.Business.csproj",
+        "packagesPath": "C:\\Users\\111809\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/crystyanoalmeida/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\111809\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexusdev.pmenos.com.br:8081/repository/nuget01/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -160,34 +172,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj": {
+    "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Data\\DevCa.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj",
+        "projectUniqueName": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Data\\DevCa.Data.csproj",
         "projectName": "DevCa.Data",
-        "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/DevCa.Data.csproj",
-        "packagesPath": "/Users/crystyanoalmeida/.nuget/packages/",
-        "outputPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCa.Data/obj/",
+        "projectPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Data\\DevCa.Data.csproj",
+        "packagesPath": "C:\\Users\\111809\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCa.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/crystyanoalmeida/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\111809\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexusdev.pmenos.com.br:8081/repository/nuget01/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj": {
-                "projectPath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj"
+              "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\DevCA.Business.csproj": {
+                "projectPath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\DevCA.Business.csproj"
               }
             }
           }
@@ -242,7 +260,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

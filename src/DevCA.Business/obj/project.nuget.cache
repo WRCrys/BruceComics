@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "N5TREMA2aZ/xGfd1+T0S6/THBR5i2Ax3UUSZuzAlyZx7okpF0KR01xV5JaAGGc8TNNR01+tlWQUvtpylDbndUw==",
+  "dgSpecHash": "DfNKLlkU18k9TGCxZby8YRPVUko9z4YcmwhszJuW1lo15lJFCh3J/fR9jIS9ILAn+CDTLnAtNnUD+chBx/py2g==",
   "success": true,
-  "projectFilePath": "/Users/crystyanoalmeida/Codes/BruceComics/src/DevCA.Business/DevCA.Business.csproj",
+  "projectFilePath": "C:\\Users\\111809\\Documents\\Crystyano\\BruceComics\\src\\DevCA.Business\\DevCA.Business.csproj",
   "expectedPackageFiles": [
-    "/Users/crystyanoalmeida/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512"
+    "C:\\Users\\111809\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
   ],
   "logs": []
 }

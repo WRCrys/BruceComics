@@ -44,7 +44,8 @@ namespace DevCa.Api
             services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo {Title = "DevCa.Api", Version = "v1"}); });
             services.AddDbContext<BruceComicsContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("BruceComicsDb"));
+                options.UseSqlServer(Configuration.GetConnectionString("BruceComicsDb"),
+                    x => x.MigrationsAssembly("DevCa.Data"));
             });
             services.ResolveDependencies();
             services.AddAutoMapper(typeof(Startup));
