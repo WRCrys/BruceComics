@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nexusdev.pmenos.com.br:8081/repository/nuget01/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
